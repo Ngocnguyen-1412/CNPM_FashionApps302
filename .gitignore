@@ -1,0 +1,15 @@
+Fashion_Apps_API/config.ini
+error_log
+.DS_Store
+
+android-app/.gradle/
+android-app/build/
+android-app/*/build/
+
+android-app/local.properties
+
+android-app/.idea/
+android-app/*.iml
+
+*.jks
+*.keystore
